@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YtdF/fDrxIExYHpCtwD2pJOGiw2dkvyMQROTfh9jh1c1FgeJU6j8+8BoJm2dxrHmLsvv+o5ZIadUh++yllGxjA==",
+  "dgSpecHash": "d+5dD6gGNJTbwLBy67NC5iTz7QsQBE2GrUc1U1Cq+rifCGTa98W3Alo1Df/aczgoJ1VPhPoCM5hu4u8gwuwxLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lvane\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lvane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\lvane\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\lvane\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lvane\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
